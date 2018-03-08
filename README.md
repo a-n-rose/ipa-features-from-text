@@ -1,5 +1,5 @@
 # ipa-features-from-text
-"Translates" English text/words to IPA (can be modified to work with other langauges). Categorizes IPA letters by their IPA features. Saves features of words to machine/deep learning friendly file: one column per feature, and True if the word has this feature, False if not. 
+"Translates" English text/words to IPA (can be modified to work with other langauges) and creates IPA based features. Saves features of words to machine/deep learning friendly file: one column per feature, and True if the word has this feature, False if not. 
 
 ### IPA: International Phonetic Alphabet
 The chart can be found and downloaded here https://www.internationalphoneticassociation.org/content/full-ipa-chart
