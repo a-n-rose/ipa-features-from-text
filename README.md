@@ -10,7 +10,11 @@ These scripts use data from a names database to serve as an example. However, th
 
 To use these tools with the names list: 
 
-1) download the latest name database from the Social Security Administration, unzip the files in a *new* directory with the scripts provided here. 
-2) run the "nametxt2csv.py" 
-3) run the "namelist_IPAprep_basic.py"
+1) download the latest name database from the Social Security Administration https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
+
+2) unzip the files in a *new* directory with the scripts provided here. 
+
+3) run the "nametxt2csv.py" 
+
+4) run the "namelist_IPAprep_basic.py"
 
