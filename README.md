@@ -12,7 +12,7 @@ To use these tools with the names list:
 
 1) download the latest name database from the Social Security Administration https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
 
-2) unzip the files in a *new* directory with the scripts provided here. 
+2) unzip the files in a *new* directory with the scripts provided here. (no other .txt files should be in the directory)
 
 3) run the "nametxt2csv.py" 
 
